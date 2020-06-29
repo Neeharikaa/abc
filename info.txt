@@ -1,3 +1,6 @@
 1.Learning git
 
 learning the steps for it
+commit
+master branch
+
